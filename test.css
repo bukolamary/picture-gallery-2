@@ -1,0 +1,14 @@
+*{
+    padding: o;
+    margin: 0;
+}
+div{
+    position: relative;
+}
+.image-one{
+position: absolute;
+z-index: 2;
+}
+.image-two{
+
+}
